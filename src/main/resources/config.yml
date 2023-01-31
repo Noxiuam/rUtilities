@@ -1,0 +1,6 @@
+config:
+  version: ${git.commit.id.abbrev}
+  branch: ${git.branch}
+  author: ${kits.author}
+  authors: ${kits.authors}
+  prefix: '&6&lUtilities &8&l> &7'
